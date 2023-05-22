@@ -5,11 +5,27 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 2.4;
+    color: #333333;
+    background-color: #ffffff;
     margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  .section-title {
     text-align: center;
-    background: #aaa;
-    color: #a81616;
-    font-size: 20px;
-    line-height: 1.7;
-}
+  }
+
+  .sonet-text {
+    text-align: center;
+  }
+  
+  
